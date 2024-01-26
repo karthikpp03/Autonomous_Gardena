@@ -15,7 +15,7 @@ Here are some screenshots from the web application:
 
 <img src="gardenia_graphs.png" alt="Dashboard Screenshot" width="600"/>
 
-<img src="path/to/settings-screenshot.png" alt="Settings Screenshot" width="600"/>
+<img src="gardenia_system.png" alt="Settings Screenshot" width="600"/>
 
 <img src="path/to/settings-screenshot.png" alt="Settings Screenshot" width="600"/>
 
