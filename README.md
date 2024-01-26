@@ -19,7 +19,7 @@ Here are some screenshots from the web application:
 
 <img src="gardenia_conditions.png" alt="Settings Screenshot" width="600"/>
 
-<img src="path/to/settings-screenshot.png" alt="Settings Screenshot" width="600"/>
+<img src="dhcp_leases.png" alt="Settings Screenshot" width="600"/>
 
 ## Overview
 
@@ -83,7 +83,7 @@ You should now be able to access Gardenia web interface on the configured port i
 
 It is required to configure static leases for TP-Links. Connect on the RaspAP hotspot and configure them in the `DHCP Server` section.
 
-<img src="demo/dhcp_leases.png" width="400">
+<img src="dhcp_leases.png" width="400">
 
 ## Features
 
